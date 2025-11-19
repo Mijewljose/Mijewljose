@@ -14,7 +14,7 @@
 - 🌱 Exploring **AI + DevOps**, automation pipelines, and cloud-native technologies  
 - 💡 Passionate about **Linux, CI/CD, Docker, Kubernetes, Infrastructure as Code, Monitoring, Cloud Engineering**   
 - 📫 Reach me at <strong>mijewelmj@gmail.com</strong>
-• Portfolio: <a href="https://mijewljose.github.io/portfolio-mj/" target="_blank">mijewljose.github.io/portfolio-mj/</a>
+- Portfolio: <a href="https://mijewljose.github.io/portfolio-mj/" target="_blank">mijewljose.github.io/portfolio-mj/</a>
 
 - ⚡ Fun fact: I automate everything I can 😄  
 
