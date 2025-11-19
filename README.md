@@ -16,7 +16,7 @@
 - 📫 Reach me at <strong>mijewelmj@gmail.com</strong>
 - Portfolio: <a href="https://mijewljose.github.io/portfolio-mj/" target="_blank">mijewljose.github.io/portfolio-mj/</a>
 
-- ⚡ Fun fact: I automate everything I can 😄  
+- ⚡ Fun fact: I break things to learn how to fix them 😄 
 
 ---
 
