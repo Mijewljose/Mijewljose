@@ -13,28 +13,21 @@
 
 - 🌱 Exploring **AI + DevOps**, automation pipelines, and cloud-native technologies  
 - 💡 Passionate about **Linux, CI/CD, Docker, Kubernetes, Infrastructure as Code, Monitoring, Cloud Engineering**  
-- 📫 Reach me at **mijewel.jose20@gmail.com**  
+- 📫 Reach me at **mijewelmj@gmail.com**  
 - ⚡ Fun fact: I automate everything I can 😄  
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/mijewel jose" target="blank">
+  <a href="https://www.linkedin.com/in/mijewel-jose/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mijewel jose" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/mijewel_jose" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/mijewel_jose123" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/mijeweljose123" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-  </a>
+  
+  
 </p>
 
 ---
@@ -65,8 +58,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
+  
 </p>
 
 ---
